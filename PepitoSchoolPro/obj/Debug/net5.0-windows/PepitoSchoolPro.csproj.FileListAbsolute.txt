@@ -80,3 +80,4 @@ C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro\obj\Debug\ne
 C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro\obj\Debug\net5.0-windows\PepitoSchoolPro.genruntimeconfig.cache
 C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro\obj\Debug\net5.0-windows\ref\PepitoSchoolPro.dll
 C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro\obj\Debug\net5.0-windows\PepitoSchoolPro.Forms.FrmAverage.resources
