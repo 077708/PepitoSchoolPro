@@ -1,0 +1,15 @@
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\bin\Debug\net5.0\PepitoSchoolPro.DataAccess.deps.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\bin\Debug\net5.0\PepitoSchoolPro.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\bin\Debug\net5.0\PepitoSchoolPro.DataAccess.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\bin\Debug\net5.0\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\bin\Debug\net5.0\PepitoSchoolPro.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.csproj.CopyComplete
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\refint\PepitoSchoolPro.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\PepitoSchoolPro.DataAccess.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.DataAccess\obj\Debug\net5.0\ref\PepitoSchoolPro.DataAccess.dll

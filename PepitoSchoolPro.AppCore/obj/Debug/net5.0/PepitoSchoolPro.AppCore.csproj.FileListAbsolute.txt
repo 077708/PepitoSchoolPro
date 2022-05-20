@@ -1,0 +1,15 @@
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\bin\Debug\net5.0\PepitoSchoolPro.AppCore.deps.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\bin\Debug\net5.0\PepitoSchoolPro.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\bin\Debug\net5.0\PepitoSchoolPro.AppCore.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\bin\Debug\net5.0\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\bin\Debug\net5.0\PepitoSchoolPro.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.csproj.CopyComplete
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\refint\PepitoSchoolPro.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\PepitoSchoolPro.AppCore.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.AppCore\obj\Debug\net5.0\ref\PepitoSchoolPro.AppCore.dll

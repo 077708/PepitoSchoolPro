@@ -1,0 +1,15 @@
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\bin\Debug\net5.0\PepitoSchoolPro.Domain.deps.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\bin\Debug\net5.0\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\bin\Debug\net5.0\PepitoSchoolPro.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\refint\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\ref\PepitoSchoolPro.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\bin\Debug\net5.0\PepitoSchoolPro.Domain.runtimeconfig.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\bin\Debug\net5.0\PepitoSchoolPro.Domain.runtimeconfig.dev.json
+C:\Users\Paulo Mayorga\source\repos\PepitoSchoolPro\PepitoSchoolPro.Domain\obj\Debug\net5.0\PepitoSchoolPro.Domain.genruntimeconfig.cache
