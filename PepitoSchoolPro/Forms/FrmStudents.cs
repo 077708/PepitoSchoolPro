@@ -90,6 +90,7 @@ namespace PepitoSchoolPro.Forms
 
                 Estudiante student = new Estudiante()
                 {
+                    Id = id,
                     Nombres = txtName.Texts,
                     Apellidos = txtLastNames.Texts,
                     Carnet = txtCarnet.Texts,
