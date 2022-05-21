@@ -136,12 +136,11 @@ namespace PepitoSchoolPro.DataAccess.Repository
 
                 student.Nombres = t.Nombres;
                 student.Direccion= t.Direccion;
-                //asset.Amount = t.Amount;
+                student.Matematica = t.Matematica;
                 student.Estadistica= t.Estadistica;
-                //asset.Terms = t.Terms;
+                student.Contabilidad = t.Contabilidad;
                 student.Carnet= t.Carnet;
                 student.Programacion = t.Programacion;
-                //asset.Code = t.Code;
 
                 pepitoSchoolContext.Estudiantes.Update(student);
                 return pepitoSchoolContext.SaveChanges();
