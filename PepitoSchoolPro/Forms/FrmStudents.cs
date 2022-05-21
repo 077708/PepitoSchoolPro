@@ -54,6 +54,7 @@ namespace PepitoSchoolPro.Forms
 
                 studentServices.Create(student);
                 Charge();
+                TextDelete();
             }
             catch (Exception ex)
             {
@@ -106,6 +107,7 @@ namespace PepitoSchoolPro.Forms
 
                 studentServices.Update(student);
                 Charge();
+                TextDelete();
             }
             catch (Exception ex)
             {
@@ -181,6 +183,21 @@ namespace PepitoSchoolPro.Forms
             }
 
             return dt;
+        }
+        
+        
+        private void TextDelete()
+        {
+            txtName.Texts = String.Empty;
+            txtLastNames.Texts = String.Empty;
+            txtCarnet.Texts = String.Empty;
+            txtPhone.Texts = String.Empty;
+            txtAddress.Texts = String.Empty;
+            txtEmail.Texts = String.Empty;
+            txtMat.Texts = String.Empty;
+            txtContabilidad.Texts = String.Empty;
+            txtProgramacion.Texts = String.Empty;
+            txtStadistics.Texts = String.Empty;
         }
     }
 }
